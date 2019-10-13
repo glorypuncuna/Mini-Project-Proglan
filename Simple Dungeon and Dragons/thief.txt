@@ -1,0 +1,31 @@
+				   |				Thief				|
+   				   |Handsome and sneaky, the cunning Thief! Although not as	|
+				   |strong as Warrior, nor as smart as the Wizard, the Thief	|
+				   |the thief is really fast and lucky! Not that lucky, but	|
+             			   |still...much more lucky than the Warrior. Not that it would |
+          (%%%&*  		   |make that much difference in the journey. Or will it?	|
+          %/*(%.  		   |By the way, he uses dagger.					|
+           */*/ 	           |Fun fact: Despite being a Thief, he is not as nimble as	|
+         (##/*#%%#. 	           |one would expect from a "thief".				|
+   ,   ((((##&&%&&&(   		   |============================================================|
+    /*(((#&&&%%&&&&&      	   |HP: 2 * (2 * STR) + 50					|
+     ,(%%&&%&&&&&%&&,,    	   |MP: 1*INT + 50						|
+    .%%%%&&&&&&%.    	           |STR: 1d6							|
+   (%#/%%%&&&&&&%*%(,    	   |INT: 1d8							|
+     %(%/%%%&%&&& #%%  		   |DEX: 1d9 + 2						|
+     *%/(%%%%%%/% .&%  		   |AC: 8							|
+     #%/%###%%%//% #%  		   |Skills:							|
+     /(/%/(%%#%**(#(* 		   |1. Slash(0)	= ((1d7 + ((DEX/2)*10)) - Def)			|
+     & (#%%(. (*/* ,.( 		   |2. Super slash(3) = (1d11 + ((DEX/2)*10) - Def)		|
+   ,.   ***    ***.		   |								|
+	(*(    **/(		   |								|
+	(/(     (*# 	 	   | 								|
+       (%##     &%%#		   |								|
+       %%     (%%%		   |								|
+       %%&       %%%		   |								|
+       %%%        &%%	           | 								|
+      %%&,        #%%%		   |								|
+    %%%%,          %%%%%	   | 								|
+    ..				   |								|
+	  			   |								|
+=================================================================================================

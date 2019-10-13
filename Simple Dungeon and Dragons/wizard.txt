@@ -1,0 +1,31 @@
+                         ,    /    |				Wizard				|
+                          ,.  ,*   |Tall and wise, master of hocus pocus! The Wizard is the	|
+                          ., #.    |smartest among the classes, and the nerdiest to boot...	|
+                       %*.**#/     |Although frail and not exactly the tankiest class, his	|
+             .&&&(     ,#/,/((     |magic is more than what a Warrior can dish to his enemies	|
+             &((&&*      #*% (,    |and something that a Thief can only hope for. 		|
+             %.../        #/#(#    |								|
+            *,*.*,,       %        |Fun fact: He doesn't care about how strong his staff is,	|
+           (./****.*(    (%        |pretty arrogant, huh? And this guy, is a newbie.		|
+         /*,.(///%..*,.   #        |============================================================|
+         **..(/(/(.,***   %        |HP: 2 * (1 * STR) + 50					|
+         /,*.(/#/(.*,,/*  #        |MP: 2*INT + 100						|
+        ,,,*,(#//#,*/**#%*..   	   |STR: 1d4							|
+       *,,,*,#*(((/*,*(##*..       |INT: 1d11 + 2						|
+       /*,,*,#((((/*/#####%        |DEX: 1d6							|
+       ###*/,(/////*#%#####.       |AC: 5							|
+       (%#%*,(////((#/(%###        |Skills:							|
+      (#(#%#((////((#(#####        |1. Fireball(5) = ((1d20 + ((INT/2)*10)) - AC)		|
+      (%,.#(/////**,%#.####.       |2. Weak smash(1) = (1d6 - (AC + 2))				|
+      %%#%%//(%#*,.*##*.# (        |								|
+     *#%###*..#%%..*###   (.       |								|
+     .##%%##../%%*,*(%##  #        | 								|
+       ##%#%*.*%#,,*##(## %        |								|
+       ###%/..*,#/.,%####/#        |								|
+        ,(( ***   **/(##(.(        |								|
+         ,#////, (//(#/   (        | 								|
+           #(/(   ,(/(    #        |								|
+           /#%%    ####   (        | 								|
+           ####    %#/##  *        |								|
+          #%*         ###          |								|
+=================================================================================================
