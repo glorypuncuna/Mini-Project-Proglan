@@ -17,19 +17,6 @@ Mini Proyek Proglan - Simple Dungeon and Dragons terinspirasi dari permainan tab
 
 <b>Welcome Screen<b>
 ![](Simple%20Dungeon%20and%20Dragons/Images/Welcome%20Screen.jpg)
-![](Simple%20Dungeon%20and%20Dragons/Images/Final%20Event%20(Hit%20Animation).jpg)
+
  
-<table>
- <tr>
-  <th><b>Final Event<b></th>
-   <th>![](Simple%20Dungeon%20and%20Dragons/Images/Final%20Event%20(Lordus).jpg)</th>
-</tr>
-  <tr>
-  <th></th>
-   <th>![](Simple%20Dungeon%20and%20Dragons/Images/Final%20Event%20(Hit%20Animation).jpg)</th>
-</tr>
-   <tr>
-  <th></th>
-   <th>![](Simple%20Dungeon%20and%20Dragons/Images/Final%20Event%20(Fight%20Lordus).jpg)</th>
-</tr>
-</table>
+
