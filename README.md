@@ -15,4 +15,5 @@ Mini Proyek Proglan - Simple Dungeon and Dragons terinspirasi dari permainan tab
 2. Vernando Wijaya Putra
 
 
+<b>Welcome Screen<b>
 ![](Simple%20Dungeon%20and%20Dragons/Images/Welcome%20Screen.jpg)
