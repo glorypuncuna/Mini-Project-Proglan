@@ -13,3 +13,6 @@ Mini Proyek Proglan - Simple Dungeon and Dragons terinspirasi dari permainan tab
 
 1. Glory Alifa Puncuna
 2. Vernando Wijaya Putra
+
+
+![](Simple%20Dungeon%20and%20Dragons/Images/Welcome%20Screen.jpg)
